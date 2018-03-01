@@ -1,0 +1,14 @@
+{
+  "name": "mosquitto-1.4.14-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subscriber_invalid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "2.15.3"
+  }
+}
