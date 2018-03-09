@@ -8,3 +8,4 @@ services:
         volumes:
             - ./mosquitto.conf:/etc/mosquitto/mosquitto.conf
             - ./file.pw:/etc/mosquitto/file.pw
+            - ./passwd:/etc/mosquitto/passwd
